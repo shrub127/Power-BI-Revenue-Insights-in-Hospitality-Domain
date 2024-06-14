@@ -1,4 +1,4 @@
-# Power-BI-Revenue-Insights-in-Hospitality-Domain
+# Optimizing Hotel Revenue with Power BI
 
 # Executive Summary 
 This project utilized data analytics methodologies to develop an interactive Power BI dashboard for Lake Grant Hotels, a fictitious 5-star hotel chain facing 
