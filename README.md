@@ -3,7 +3,6 @@
 # Executive Summary 
 This project utilized data analytics methodologies to develop an interactive Power BI dashboard for Lake Grant Hotels, a fictitious 5-star hotel chain facing 
 industry competition. The dashboard empowers the management team with actionable insights to optimize revenue generation strategies.
-!["alt text"]("C:\Users\shrut\Downloads\power bi image.png")
 
 
 Project Goals:
