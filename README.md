@@ -24,10 +24,10 @@ Stakeholder Engagement: A mock-up dashboard was presented to a domain expert (re
 Iterative Refinement: The dashboard was further enhanced based on expert feedback. This included adding a drill-down level for individual property data and planning for two additional visuals (details withheld for future implementation).
 
 # Skills Utilized
-Data Analysis: Techniques for data acquisition, cleaning, and manipulation.
-Business Intelligence (BI): Proficiency in Power BI for dashboard development.
-Data Visualization: Skills to create clear and informative visuals for data exploration.
-Communication: Collaboration with stakeholders to understand requirements and translate them into actionable insights.
+1 . Data Analysis: Techniques for data acquisition, cleaning, and manipulation.
+2. Business Intelligence (BI): Proficiency in Power BI for dashboard development.
+3. Data Visualization: Skills to create clear and informative visuals for data exploration.
+4. Communication: Collaboration with stakeholders to understand requirements and translate them into actionable insights.
 
 # Results 
 A comprehensive Power BI dashboard providing real-time insights into hotel revenue performance across various metrics.
