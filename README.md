@@ -18,21 +18,19 @@ Collaborate with a domain expert (revenue manager) to refine dashboard functiona
 # Methodology
 This project adopted a data analytics approach to develop a business intelligence dashboard:
 
-Data Acquisition & Cleaning: A hospitality dataset mimicking Lake Grant Hotels was obtained (details omitted due to confidentiality). Data cleaning procedures ensured data accuracy.
+Data Acquisition & Cleaning: A hospitality dataset mimicking Lake Grant Hotels was obtained . Data cleaning procedures ensured data accuracy.
 Dashboard Development: Power BI was used to create an interactive dashboard visualizing key performance indicators (KPIs) like revenue, occupancy rate, and average rating. User-friendly features like city filters, status filters, and platform filters were incorporated.
 Stakeholder Engagement: A mock-up dashboard was presented to a domain expert (revenue manager) for feedback. This resulted in the inclusion of crucial metrics like RevPAR (Revenue Per Available Room) and ADR (Average Daily Rate).
-Iterative Refinement: The dashboard was further enhanced based on expert feedback. This included adding a drill-down level for individual property data and planning for two additional visuals (details withheld for future implementation).
 
 # Skills Utilized
 1 . Data Analysis: Techniques for data acquisition, cleaning, and manipulation.
 2. Business Intelligence (BI): Proficiency in Power BI for dashboard development.
 3. Data Visualization: Skills to create clear and informative visuals for data exploration.
-4. Communication: Collaboration with stakeholders to understand requirements and translate them into actionable insights.
 
 # Results 
-A comprehensive Power BI dashboard providing real-time insights into hotel revenue performance across various metrics.
-Improved capability for the management team to identify trends, opportunities, and areas for revenue optimization.
-Demonstration of the value of stakeholder engagement in data analytics projects.
+1. A comprehensive Power BI dashboard providing real-time insights into hotel revenue performance across various metrics.
+2. Improved capability for the management team to identify trends, opportunities, and areas for revenue optimization.
+3. Demonstration of the value of stakeholder engagement in data analytics projects.
 
 # Business Recommendations
 1. Investigate ways to improve profitability. This could involve reducing costs or increasing revenue.
